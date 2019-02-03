@@ -1,6 +1,6 @@
 # Site settings
-title: See My Blog                    #博客的标题
-SEOTitle: 陆振宇的博客                 #显示在浏览器上搜索时的标题
+title: ZY Blog                    #博客的标题
+SEOTitle: 陆振宇的博客 | ZY Blog                 #显示在浏览器上搜索时的标题
 header-img: img/post-bg-desk.jpg      #显示在首页的图片
 email: zhenyu.suzhou@gmail.com
 description: "Undergraduate major in mathematics."
