@@ -75,11 +75,12 @@ gitalk:
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: b50bf2b12b5338a1845e33832976fd68
+ba_track_id: 5f10c6a379357d169ea28b7a9d060efb
+
 
 # Google Analytics
-ga_track_id: 'UA-90855596-1'            # Format: UA-xxxxxx-xx
-ga_domain: qiubaiying.top               # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
+ga_track_id: 'UA-133736705-1'            # Format: UA-xxxxxx-xx
+ga_domain: auto              # 默认的是 auto, 这里我是自定义了的域名，你如果没有自己的域名，需要改成auto
 
 
 
@@ -100,16 +101,16 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "单逸学长主页",
+        href: "http://home.ustc.edu.cn/~shanyi/"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "章俊彦学长主页",
+        href: "https://www.zhangjy9610.me/index-cn.html"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "黃詠翔学长主页",
+        href: "http://homepage.ntu.edu.tw/~d04221001/"
     },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "math.stackexchange",
+        href: "https://math.stackexchange.com/"
     }
 ]
